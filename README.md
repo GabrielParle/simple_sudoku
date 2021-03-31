@@ -1,3 +1,5 @@
+![gameplay](https://user-images.githubusercontent.com/46634097/113170730-bc513b80-923e-11eb-8534-a96c162aabf0.png)
+![fullBoard](https://user-images.githubusercontent.com/46634097/113170740-beb39580-923e-11eb-9519-285a10374754.png)
 # simple_sudoku
 A terminal based sudoku game written in c.
 
