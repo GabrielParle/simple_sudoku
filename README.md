@@ -1,5 +1,4 @@
-![gameplay](https://user-images.githubusercontent.com/46634097/113170730-bc513b80-923e-11eb-8534-a96c162aabf0.png)
-![fullBoard](https://user-images.githubusercontent.com/46634097/113170740-beb39580-923e-11eb-9519-285a10374754.png)
+
 # simple_sudoku
 A terminal based sudoku game written in c.
 
@@ -14,3 +13,7 @@ iplenment the solver (2) option.
 clean it up can probably cut two hudred lines with some refactoring.
 
 ensure the provided grid can onlyhave one solution . it seems likely that the grids provided only have one solution but i dont verfiy it.
+
+Examples!
+![gameplay](https://user-images.githubusercontent.com/46634097/113170730-bc513b80-923e-11eb-8534-a96c162aabf0.png)
+![fullBoard](https://user-images.githubusercontent.com/46634097/113170740-beb39580-923e-11eb-9519-285a10374754.png)
