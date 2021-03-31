@@ -16,5 +16,5 @@ ensure the provided grid can onlyhave one solution . it seems likely that the gr
 
 Examples!
 
-![gameplay](https://user-images.githubusercontent.com/46634097/113170730-bc513b80-923e-11eb-8534-a96c162aabf0.png)
-![fullBoard](https://user-images.githubusercontent.com/46634097/113170740-beb39580-923e-11eb-9519-285a10374754.png)
+![examplegrid](https://user-images.githubusercontent.com/46634097/113171389-544f2500-923f-11eb-9896-aac60ac67f9f.png)
+![gameplay](https://user-images.githubusercontent.com/46634097/113171411-5913d900-923f-11eb-961b-5065b36190bd.png)
